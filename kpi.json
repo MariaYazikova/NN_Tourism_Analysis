@@ -1,0 +1,975 @@
+{
+    "total_tourists": 5719515,
+    "tourists_per_month": [
+        {
+            "month": 1,
+            "tourists_cnt": 388462.0
+        },
+        {
+            "month": 2,
+            "tourists_cnt": 324863.0
+        },
+        {
+            "month": 3,
+            "tourists_cnt": 398470.0
+        },
+        {
+            "month": 4,
+            "tourists_cnt": 420381.0
+        },
+        {
+            "month": 5,
+            "tourists_cnt": 490162.0
+        },
+        {
+            "month": 6,
+            "tourists_cnt": 573208.0
+        },
+        {
+            "month": 7,
+            "tourists_cnt": 679150.0
+        },
+        {
+            "month": 8,
+            "tourists_cnt": 672094.0
+        },
+        {
+            "month": 9,
+            "tourists_cnt": 464552.0
+        },
+        {
+            "month": 10,
+            "tourists_cnt": 453072.0
+        },
+        {
+            "month": 11,
+            "tourists_cnt": 427894.0
+        },
+        {
+            "month": 12,
+            "tourists_cnt": 427207.0
+        }
+    ],
+    "top_regions": [
+        {
+            "home_region": "Нижегородская область",
+            "tourists_cnt": 3535596.0
+        },
+        {
+            "home_region": "г. Москва",
+            "tourists_cnt": 450449.0
+        },
+        {
+            "home_region": "Московская область",
+            "tourists_cnt": 323945.0
+        },
+        {
+            "home_region": "Владимирская область",
+            "tourists_cnt": 271836.0
+        },
+        {
+            "home_region": "г. Санкт-Петербург",
+            "tourists_cnt": 107996.0
+        },
+        {
+            "home_region": "Кировская область",
+            "tourists_cnt": 71210.0
+        },
+        {
+            "home_region": "Республика Татарстан",
+            "tourists_cnt": 65929.0
+        },
+        {
+            "home_region": "Ивановская область",
+            "tourists_cnt": 65688.0
+        },
+        {
+            "home_region": "Чувашская Республика",
+            "tourists_cnt": 62456.0
+        },
+        {
+            "home_region": "Республика Мордовия",
+            "tourists_cnt": 58779.0
+        },
+        {
+            "home_region": "Самарская область",
+            "tourists_cnt": 44030.0
+        },
+        {
+            "home_region": "Пермский край",
+            "tourists_cnt": 31048.0
+        },
+        {
+            "home_region": "Ленинградская область",
+            "tourists_cnt": 28974.0
+        },
+        {
+            "home_region": "Свердловская область",
+            "tourists_cnt": 28935.0
+        },
+        {
+            "home_region": "Ярославская область",
+            "tourists_cnt": 28257.0
+        },
+        {
+            "home_region": "Пензенская область",
+            "tourists_cnt": 27431.0
+        },
+        {
+            "home_region": "Краснодарский край",
+            "tourists_cnt": 26566.0
+        },
+        {
+            "home_region": "Удмуртская Республика",
+            "tourists_cnt": 24119.0
+        },
+        {
+            "home_region": "Республика Коми",
+            "tourists_cnt": 23035.0
+        },
+        {
+            "home_region": "Республика Марий Эл",
+            "tourists_cnt": 22042.0
+        },
+        {
+            "home_region": "Рязанская область",
+            "tourists_cnt": 21966.0
+        },
+        {
+            "home_region": "Челябинская область",
+            "tourists_cnt": 20287.0
+        },
+        {
+            "home_region": "Саратовская область",
+            "tourists_cnt": 19871.0
+        },
+        {
+            "home_region": "Костромская область",
+            "tourists_cnt": 19594.0
+        },
+        {
+            "home_region": "Ульяновская область",
+            "tourists_cnt": 19155.0
+        },
+        {
+            "home_region": "Вологодская область",
+            "tourists_cnt": 16506.0
+        },
+        {
+            "home_region": "Республика Башкортостан",
+            "tourists_cnt": 15939.0
+        },
+        {
+            "home_region": "Архангельская область",
+            "tourists_cnt": 15878.0
+        },
+        {
+            "home_region": "Воронежская область",
+            "tourists_cnt": 12711.0
+        },
+        {
+            "home_region": "Тульская область",
+            "tourists_cnt": 12659.0
+        },
+        {
+            "home_region": "Тверская область",
+            "tourists_cnt": 12072.0
+        },
+        {
+            "home_region": "Ростовская область",
+            "tourists_cnt": 11692.0
+        },
+        {
+            "home_region": "Калужская область",
+            "tourists_cnt": 11354.0
+        },
+        {
+            "home_region": "Волгоградская область",
+            "tourists_cnt": 11093.0
+        },
+        {
+            "home_region": "Ханты-Мансийский автономный округ",
+            "tourists_cnt": 9487.0
+        },
+        {
+            "home_region": "Мурманская область",
+            "tourists_cnt": 9319.0
+        },
+        {
+            "home_region": "Новосибирская область",
+            "tourists_cnt": 9167.0
+        },
+        {
+            "home_region": "Белгородская область",
+            "tourists_cnt": 8700.0
+        },
+        {
+            "home_region": "Республика Дагестан",
+            "tourists_cnt": 8596.0
+        },
+        {
+            "home_region": "Смоленская область",
+            "tourists_cnt": 8056.0
+        },
+        {
+            "home_region": "Оренбургская область",
+            "tourists_cnt": 7949.0
+        },
+        {
+            "home_region": "Тюменская область",
+            "tourists_cnt": 6519.0
+        },
+        {
+            "home_region": "Ямало-Ненецкий автономный округ",
+            "tourists_cnt": 6489.0
+        },
+        {
+            "home_region": "Ставропольский край",
+            "tourists_cnt": 6271.0
+        },
+        {
+            "home_region": "Омская область",
+            "tourists_cnt": 6269.0
+        },
+        {
+            "home_region": "Липецкая область",
+            "tourists_cnt": 5752.0
+        },
+        {
+            "home_region": "Тамбовская область",
+            "tourists_cnt": 5222.0
+        },
+        {
+            "home_region": "Красноярский край",
+            "tourists_cnt": 5122.0
+        },
+        {
+            "home_region": "Калининградская область",
+            "tourists_cnt": 5079.0
+        },
+        {
+            "home_region": "Курская область",
+            "tourists_cnt": 4970.0
+        },
+        {
+            "home_region": "Брянская область",
+            "tourists_cnt": 4787.0
+        },
+        {
+            "home_region": "Астраханская область",
+            "tourists_cnt": 4453.0
+        },
+        {
+            "home_region": "Иркутская область",
+            "tourists_cnt": 3755.0
+        },
+        {
+            "home_region": "Новгородская область",
+            "tourists_cnt": 3575.0
+        },
+        {
+            "home_region": "Республика Карелия",
+            "tourists_cnt": 3454.0
+        },
+        {
+            "home_region": "Орловская область",
+            "tourists_cnt": 3225.0
+        },
+        {
+            "home_region": "Кемеровская область",
+            "tourists_cnt": 3174.0
+        },
+        {
+            "home_region": "Приморский край",
+            "tourists_cnt": 2925.0
+        },
+        {
+            "home_region": "Республика Саха (Якутия)",
+            "tourists_cnt": 2816.0
+        },
+        {
+            "home_region": "Хабаровский край",
+            "tourists_cnt": 2737.0
+        },
+        {
+            "home_region": "Псковская область",
+            "tourists_cnt": 2559.0
+        },
+        {
+            "home_region": "Чеченская Республика",
+            "tourists_cnt": 2267.0
+        },
+        {
+            "home_region": "Томская область",
+            "tourists_cnt": 2175.0
+        },
+        {
+            "home_region": "Амурская область",
+            "tourists_cnt": 1906.0
+        },
+        {
+            "home_region": "Алтайский край",
+            "tourists_cnt": 1891.0
+        },
+        {
+            "home_region": "Сахалинская область",
+            "tourists_cnt": 1655.0
+        },
+        {
+            "home_region": "Камчатский край",
+            "tourists_cnt": 1559.0
+        },
+        {
+            "home_region": "Курганская область",
+            "tourists_cnt": 1513.0
+        },
+        {
+            "home_region": "Забайкальский край",
+            "tourists_cnt": 1395.0
+        },
+        {
+            "home_region": "Республика Бурятия",
+            "tourists_cnt": 1210.0
+        },
+        {
+            "home_region": "Кабардино-Балкарская Республика",
+            "tourists_cnt": 1052.0
+        },
+        {
+            "home_region": "Республика Северная Осетия - Алания",
+            "tourists_cnt": 920.0
+        },
+        {
+            "home_region": "Республика Адыгея",
+            "tourists_cnt": 880.0
+        },
+        {
+            "home_region": "Карачаево-Черкесская Республика",
+            "tourists_cnt": 849.0
+        },
+        {
+            "home_region": "Чукотский автономный округ",
+            "tourists_cnt": 746.0
+        },
+        {
+            "home_region": "Магаданская область",
+            "tourists_cnt": 583.0
+        },
+        {
+            "home_region": "Республика Ингушетия",
+            "tourists_cnt": 563.0
+        },
+        {
+            "home_region": "Республика Хакасия",
+            "tourists_cnt": 512.0
+        },
+        {
+            "home_region": "Республика Тыва (Тува)",
+            "tourists_cnt": 356.0
+        },
+        {
+            "home_region": "Республика Калмыкия",
+            "tourists_cnt": 348.0
+        },
+        {
+            "home_region": "Еврейская автономная область",
+            "tourists_cnt": 344.0
+        },
+        {
+            "home_region": "Республика Алтай",
+            "tourists_cnt": 234.0
+        },
+        {
+            "home_region": "Ненецкий автономный округ",
+            "tourists_cnt": 70.0
+        }
+    ],
+    "top_countries": [
+        {
+            "home_country": "Россия",
+            "tourists_cnt": 5692553.0
+        },
+        {
+            "home_country": "Белоруссия",
+            "tourists_cnt": 4439.0
+        },
+        {
+            "home_country": "Узбекистан",
+            "tourists_cnt": 2725.0
+        },
+        {
+            "home_country": "Турция",
+            "tourists_cnt": 2352.0
+        },
+        {
+            "home_country": "Таджикистан",
+            "tourists_cnt": 1907.0
+        },
+        {
+            "home_country": "Азербайджан",
+            "tourists_cnt": 1397.0
+        },
+        {
+            "home_country": "Китай (Китайская Народная Республика)",
+            "tourists_cnt": 1244.0
+        },
+        {
+            "home_country": "Германия",
+            "tourists_cnt": 1193.0
+        },
+        {
+            "home_country": "Эстония",
+            "tourists_cnt": 1099.0
+        },
+        {
+            "home_country": "Египет",
+            "tourists_cnt": 791.0
+        },
+        {
+            "home_country": "Казахстан",
+            "tourists_cnt": 785.0
+        },
+        {
+            "home_country": "Украина",
+            "tourists_cnt": 742.0
+        },
+        {
+            "home_country": "Израиль",
+            "tourists_cnt": 686.0
+        },
+        {
+            "home_country": "ОАЭ",
+            "tourists_cnt": 623.0
+        },
+        {
+            "home_country": "Сербия",
+            "tourists_cnt": 472.0
+        },
+        {
+            "home_country": "Киргизия",
+            "tourists_cnt": 416.0
+        },
+        {
+            "home_country": "Армения",
+            "tourists_cnt": 415.0
+        },
+        {
+            "home_country": "Испания",
+            "tourists_cnt": 396.0
+        },
+        {
+            "home_country": "США",
+            "tourists_cnt": 391.0
+        },
+        {
+            "home_country": "Франция",
+            "tourists_cnt": 316.0
+        },
+        {
+            "home_country": "Грузия",
+            "tourists_cnt": 315.0
+        },
+        {
+            "home_country": "Италия",
+            "tourists_cnt": 294.0
+        },
+        {
+            "home_country": "Польша",
+            "tourists_cnt": 258.0
+        },
+        {
+            "home_country": "Чехия",
+            "tourists_cnt": 220.0
+        },
+        {
+            "home_country": "Латвия",
+            "tourists_cnt": 219.0
+        },
+        {
+            "home_country": "Литва",
+            "tourists_cnt": 205.0
+        },
+        {
+            "home_country": "Ирак",
+            "tourists_cnt": 202.0
+        },
+        {
+            "home_country": "Великобритания",
+            "tourists_cnt": 198.0
+        },
+        {
+            "home_country": "Кипр",
+            "tourists_cnt": 190.0
+        },
+        {
+            "home_country": "Молдавия",
+            "tourists_cnt": 170.0
+        },
+        {
+            "home_country": "Болгария",
+            "tourists_cnt": 129.0
+        },
+        {
+            "home_country": "Финляндия",
+            "tourists_cnt": 127.0
+        },
+        {
+            "home_country": "Республика Корея",
+            "tourists_cnt": 125.0
+        },
+        {
+            "home_country": "Таиланд",
+            "tourists_cnt": 123.0
+        },
+        {
+            "home_country": "Шри-Ланка",
+            "tourists_cnt": 108.0
+        },
+        {
+            "home_country": "Индонезия",
+            "tourists_cnt": 104.0
+        },
+        {
+            "home_country": "Швеция",
+            "tourists_cnt": 102.0
+        },
+        {
+            "home_country": "Швейцария",
+            "tourists_cnt": 98.0
+        },
+        {
+            "home_country": "Австрия",
+            "tourists_cnt": 90.0
+        },
+        {
+            "home_country": "Венгрия",
+            "tourists_cnt": 71.0
+        },
+        {
+            "home_country": "Черногория",
+            "tourists_cnt": 69.0
+        },
+        {
+            "home_country": "Бельгия",
+            "tourists_cnt": 53.0
+        },
+        {
+            "home_country": "Алжир",
+            "tourists_cnt": 52.0
+        },
+        {
+            "home_country": "Марокко",
+            "tourists_cnt": 51.0
+        },
+        {
+            "home_country": "Греция",
+            "tourists_cnt": 51.0
+        },
+        {
+            "home_country": "Саудовская Аравия",
+            "tourists_cnt": 49.0
+        },
+        {
+            "home_country": "Малайзия",
+            "tourists_cnt": 47.0
+        },
+        {
+            "home_country": "Нидерланды",
+            "tourists_cnt": 44.0
+        },
+        {
+            "home_country": "Дания",
+            "tourists_cnt": 43.0
+        },
+        {
+            "home_country": "Катар",
+            "tourists_cnt": 36.0
+        },
+        {
+            "home_country": "Норвегия",
+            "tourists_cnt": 34.0
+        },
+        {
+            "home_country": "Словакия",
+            "tourists_cnt": 34.0
+        },
+        {
+            "home_country": "ЮАР",
+            "tourists_cnt": 32.0
+        },
+        {
+            "home_country": "Ирландия",
+            "tourists_cnt": 32.0
+        },
+        {
+            "home_country": "Хорватия",
+            "tourists_cnt": 30.0
+        },
+        {
+            "home_country": "Босния и Герцеговина",
+            "tourists_cnt": 29.0
+        },
+        {
+            "home_country": "Иордания",
+            "tourists_cnt": 27.0
+        },
+        {
+            "home_country": "Нигерия",
+            "tourists_cnt": 27.0
+        },
+        {
+            "home_country": "Сирия",
+            "tourists_cnt": 27.0
+        },
+        {
+            "home_country": "Ливан",
+            "tourists_cnt": 26.0
+        },
+        {
+            "home_country": "Индия",
+            "tourists_cnt": 24.0
+        },
+        {
+            "home_country": "Португалия",
+            "tourists_cnt": 24.0
+        },
+        {
+            "home_country": "Ангола",
+            "tourists_cnt": 22.0
+        },
+        {
+            "home_country": "Словения",
+            "tourists_cnt": 20.0
+        },
+        {
+            "home_country": "Румыния",
+            "tourists_cnt": 20.0
+        },
+        {
+            "home_country": "Япония",
+            "tourists_cnt": 18.0
+        },
+        {
+            "home_country": "Люксембург",
+            "tourists_cnt": 15.0
+        },
+        {
+            "home_country": "Иран",
+            "tourists_cnt": 15.0
+        },
+        {
+            "home_country": "Гана",
+            "tourists_cnt": 15.0
+        },
+        {
+            "home_country": "Кот-д’Ивуар",
+            "tourists_cnt": 13.0
+        },
+        {
+            "home_country": "Албания",
+            "tourists_cnt": 13.0
+        },
+        {
+            "home_country": "Танзания",
+            "tourists_cnt": 12.0
+        },
+        {
+            "home_country": "Сингапур",
+            "tourists_cnt": 12.0
+        },
+        {
+            "home_country": "Оман",
+            "tourists_cnt": 11.0
+        },
+        {
+            "home_country": "Мексика",
+            "tourists_cnt": 11.0
+        },
+        {
+            "home_country": "Австралия",
+            "tourists_cnt": 11.0
+        },
+        {
+            "home_country": "Вьетнам",
+            "tourists_cnt": 10.0
+        },
+        {
+            "home_country": "Судан",
+            "tourists_cnt": 10.0
+        },
+        {
+            "home_country": "Северная Македония",
+            "tourists_cnt": 10.0
+        },
+        {
+            "home_country": "Гонконг",
+            "tourists_cnt": 9.0
+        },
+        {
+            "home_country": "Эквадор",
+            "tourists_cnt": 9.0
+        },
+        {
+            "home_country": "Колумбия",
+            "tourists_cnt": 9.0
+        },
+        {
+            "home_country": "Мальта",
+            "tourists_cnt": 8.0
+        },
+        {
+            "home_country": "Уганда",
+            "tourists_cnt": 8.0
+        },
+        {
+            "home_country": "Китайская Республика",
+            "tourists_cnt": 8.0
+        },
+        {
+            "home_country": "Филиппины",
+            "tourists_cnt": 7.0
+        },
+        {
+            "home_country": "Чад",
+            "tourists_cnt": 7.0
+        },
+        {
+            "home_country": "Гвинея",
+            "tourists_cnt": 7.0
+        },
+        {
+            "home_country": "Чили",
+            "tourists_cnt": 6.0
+        },
+        {
+            "home_country": "Мьянма",
+            "tourists_cnt": 6.0
+        },
+        {
+            "home_country": "Гватемала",
+            "tourists_cnt": 6.0
+        },
+        {
+            "home_country": "Канада",
+            "tourists_cnt": 5.0
+        },
+        {
+            "home_country": "Маврикий",
+            "tourists_cnt": 5.0
+        },
+        {
+            "home_country": "Монголия",
+            "tourists_cnt": 5.0
+        },
+        {
+            "home_country": "Кувейт",
+            "tourists_cnt": 4.0
+        },
+        {
+            "home_country": "Сейшельские Острова",
+            "tourists_cnt": 4.0
+        },
+        {
+            "home_country": "Уругвай",
+            "tourists_cnt": 4.0
+        },
+        {
+            "home_country": "Пакистан",
+            "tourists_cnt": 4.0
+        },
+        {
+            "home_country": "Исландия",
+            "tourists_cnt": 4.0
+        },
+        {
+            "home_country": "Тунис",
+            "tourists_cnt": 4.0
+        },
+        {
+            "home_country": "Туркмения",
+            "tourists_cnt": 3.0
+        },
+        {
+            "home_country": "Бахрейн",
+            "tourists_cnt": 3.0
+        },
+        {
+            "home_country": "Фиджи",
+            "tourists_cnt": 3.0
+        },
+        {
+            "home_country": "Сенегал",
+            "tourists_cnt": 3.0
+        },
+        {
+            "home_country": "Бразилия",
+            "tourists_cnt": 3.0
+        },
+        {
+            "home_country": "Камерун",
+            "tourists_cnt": 2.0
+        }
+    ],
+    "gender_distribution": [
+        {
+            "gender": "женский",
+            "tourists_cnt": 3074467.0
+        },
+        {
+            "gender": "мужской",
+            "tourists_cnt": 2618086.0
+        }
+    ],
+    "age_distribution": [
+        {
+            "tourist_age": "от 25 до 34 лет",
+            "tourists_cnt": 1291303.0
+        },
+        {
+            "tourist_age": "от 35 до 44 лет",
+            "tourists_cnt": 1053954.0
+        },
+        {
+            "tourist_age": "от 45 до 54 лет",
+            "tourists_cnt": 913851.0
+        },
+        {
+            "tourist_age": "от 55 до 63 лет",
+            "tourists_cnt": 862164.0
+        },
+        {
+            "tourist_age": "свыше 64 лет",
+            "tourists_cnt": 793901.0
+        },
+        {
+            "tourist_age": "от 18 до 24 лет",
+            "tourists_cnt": 588007.0
+        },
+        {
+            "tourist_age": "до 18 лет",
+            "tourists_cnt": 189373.0
+        }
+    ],
+    "avg_days": 5.561954155805767,
+    "avg_spent": 0.04840990884985654,
+    "top_regions_by_spent": [
+        {
+            "home_region": "Республика Коми",
+            "avg_spent": 0.15661782076972586
+        },
+        {
+            "home_region": "Удмуртская Республика",
+            "avg_spent": 0.12101822333197
+        },
+        {
+            "home_region": "Магаданская область",
+            "avg_spent": 0.1106957393108471
+        },
+        {
+            "home_region": "Камчатский край",
+            "avg_spent": 0.10995459089803905
+        },
+        {
+            "home_region": "г. Москва",
+            "avg_spent": 0.10228583962267915
+        },
+        {
+            "home_region": "Омская область",
+            "avg_spent": 0.10199639948829763
+        },
+        {
+            "home_region": "Республика Алтай",
+            "avg_spent": 0.0981510392476721
+        },
+        {
+            "home_region": "Сахалинская область",
+            "avg_spent": 0.09682829563964726
+        },
+        {
+            "home_region": "Новосибирская область",
+            "avg_spent": 0.09580486034752171
+        },
+        {
+            "home_region": "Челябинская область",
+            "avg_spent": 0.09233767078323743
+        }
+    ],
+    "avg_days_by_goal": [
+        {
+            "goal": "Посещение друзей и родственников",
+            "avg_days": 6.800292829351452
+        },
+        {
+            "goal": "Командировка",
+            "avg_days": 5.630423542457033
+        },
+        {
+            "goal": "Туризм",
+            "avg_days": 4.118310753697503
+        }
+    ],
+    "avg_spent_by_month": [
+        {
+            "month": 1,
+            "avg_spent": 0.04452538774691539
+        },
+        {
+            "month": 2,
+            "avg_spent": 0.05643508661551306
+        },
+        {
+            "month": 3,
+            "avg_spent": 0.04981409675416531
+        },
+        {
+            "month": 4,
+            "avg_spent": 0.04872137304168494
+        },
+        {
+            "month": 5,
+            "avg_spent": 0.050803001175596545
+        },
+        {
+            "month": 6,
+            "avg_spent": 0.05080499349655268
+        },
+        {
+            "month": 7,
+            "avg_spent": 0.04726422533128777
+        },
+        {
+            "month": 8,
+            "avg_spent": 0.0476091242497262
+        },
+        {
+            "month": 9,
+            "avg_spent": 0.04765988192114477
+        },
+        {
+            "month": 10,
+            "avg_spent": 0.048283928911230886
+        },
+        {
+            "month": 11,
+            "avg_spent": 0.04631349254879541
+        },
+        {
+            "month": 12,
+            "avg_spent": 0.04405952209947842
+        }
+    ],
+    "avg_spent_by_goal": [
+        {
+            "goal": "Посещение друзей и родственников",
+            "avg_spent": 0.05775880635317313
+        },
+        {
+            "goal": "Туризм",
+            "avg_spent": 0.04119608290020103
+        },
+        {
+            "goal": "Командировка",
+            "avg_spent": 0.038900888672049126
+        }
+    ]
+}

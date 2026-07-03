@@ -1,0 +1,22 @@
+Изначальный размер: 1079177
+Кол-во дубликатов: 0
+Размер после удаления дубликатов: 1079177
+
+Пропуски по столбцам:
+index                   0
+territory_code          0
+territory_name          0
+date_of_arrival         0
+trip_type               0
+visit_type              0
+home_country            0
+home_region          4267
+home_city          219600
+goal                    0
+gender               4267
+tourist_age          4267
+income               4267
+days_cnt                0
+visitors_cnt            0
+spent                4267
+month                   0
