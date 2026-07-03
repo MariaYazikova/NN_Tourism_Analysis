@@ -1,2 +1,4 @@
 tourism_202603151343.csv
 *.csv
+__pycache__/
+*.pyc
